@@ -28,19 +28,9 @@ Lead maintainer of **Mayank Droid**. Focused on Android firmware customization, 
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xboyrex&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayank's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboyrex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🌐 Hub & Ecosystem
 
 * **Web Portal:** [Mayank Droid Live](https://xboyrex.github.io/mayank-droid/)
 * **YouTube:** [Mayank Droid](https://www.youtube.com/@mayankdroid)
 * **Instagram:** [@mayank.droid](https://www.instagram.com/mayank.droid)
 * **Telegram:** [@RoranoaxZORO](https://t.me/RoranoaxZORO)
-* 
