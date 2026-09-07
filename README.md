@@ -1,63 +1,52 @@
 <div align="center">
 
-# ⚡ Roushan (xboyrex)
-### Full-Stack Creator • System Enthusiast • Automation Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=220&section=header&text=MAYANK%20//%20XBOYREX&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=00f0ff&desc=SYSTEM%20SECURITY%20%E2%80%A2%20ANDROID%20KERNEL%20%E2%80%A2%20EDGE%20INFRASTRUCTURE&descSize=12&descAlignY=60&descAlign=50" width="100%" alt="Cyberpunk Banner" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xboyrex&label=Profile%20Views&color=6366f1&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Focus-Edge%20Architecture-blue?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5-00f0ff?style=for-the-badge&logo=shield&logoColor=000&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/KERNEL-MODULAR_UNIX-ff003c?style=for-the-badge&logo=linux&logoColor=fff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PROTOCOL-EDGE_ROUTING-fee715?style=for-the-badge&logo=cloudflare&logoColor=000&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=xboyrex&label=TERMINAL_UPLINKS&color=00f0ff&style=for-the-badge" />
 </p>
 
----
+```bash
+[ROOT@CYBERDECK-NODE-01 ~]# init-uplink --operator=Mayank --protocol=SECURE
+>> MOUNTING FILE SYSTEMS: OK
+>> SYSTEM LATENCY: 1.2ms // GLOBAL MESH STATUS: ONLINE
+>> DIRECTORY IDENT: MAYANK DROID // ONYX // OTAKU INFRASTRUCTURE
 
-### 📊 GitHub Activity & Real-Time Metrics
-
-<!-- Streak & Stats Cards -->
+// TELEMETRY & LIVE ACTIVITY
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xboyrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="xboyrex's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xboyrex&theme=tokyonight&hide_border=true&background=0d1117" alt="xboyrex's Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xboyrex&theme=cyberpunk&hide_border=true&background=08090b&stroke=00f0ff&ring=ff003c&fire=fee715&currStreakLabel=00f0ff" width="49%" alt="Streak Metrics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xboyrex&theme=cyberpunk" width="49%" alt="Profile Summary" />
 </p>
-
-<!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xboyrex&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="97%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xboyrex&theme=matrix&bg_color=08090b&color=00f0ff&line=ff003c&point=fee715&area=true&hide_border=true" width="98%" alt="Telemetry Vector" />
 </p>
-
-<!-- Most Used Languages -->
+// WEAPONS & TECH STACK
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboyrex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_ROM_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git_VCS-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 🛠️ Tech Stack & Infrastructure
-
+// DEPLOYED NETWORK ARCHITECTURE
+| NODE DESIGNATION | DIRECTORY MATRIX | INTERLINK ROUTE |
+|---|---|---|
+| Otaku Hub Pro | High-performance content directory & streaming routing | ENTER INTERFACE |
+| Onyx Services | Global services portal & API routing | ENTER INTERFACE |
+| Mayank Droid | Android toolkits, unlocking modules & custom images | ENTER INTERFACE |
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Android_Tools-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<a href="https://t.me/MayankDroid7">
+<img src="https://img.shields.io/badge/TELEGRAM-ENCRYPTED_UPLINK-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Uplink" />
+</a>
+<a href="https://youtube.com/@mayankdroid">
+<img src="https://img.shields.io/badge/YOUTUBE-SIGNAL_TRANSMISSION-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Signal" />
+</a>
 </p>
-
----
-
-### 🌐 Ecosystem & Live Deployments
-
-| Platform | Core Focus | Link |
-| :--- | :--- | :--- |
-| **Otaku Hub** | High-performance entertainment directory | [Explore Node](https://otaku-hub-pro.pages.dev) |
-| **Onyx Services** | Digital media solutions & utility routing | [Access Panel](https://onyx-services.pages.dev) |
-| **Mayank Droid** | Android mods, tools & firmware indexing | [Launch Hub](https://mayank-droid.pages.dev) |
-
----
-
-<p align="center">
-  <a href="https://t.me/Mayank_Droid_Services">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Broadcast-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,0&height=90&section=footer" width="100%" />
 </div>
+
