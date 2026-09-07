@@ -1,36 +1,63 @@
-# Hi, I'm Mayank 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Android%20Firmware%20%26%20Kernel%20Modding-green?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Platform-HyperOS%20%2F%20AOSP-blue?style=flat-square" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Contributor-orange?style=flat-square" alt="Status"/>
+# ⚡ Roushan (xboyrex)
+### Full-Stack Creator • System Enthusiast • Automation Engineer
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xboyrex&label=Profile%20Views&color=6366f1&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Focus-Edge%20Architecture-blue?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square" alt="Status" />
 </p>
 
-Lead maintainer of **Mayank Droid**. Focused on Android firmware customization, HyperOS bootloader workflows, kernel-level root mechanisms, and curated developer toolkits.
+---
+
+### 📊 GitHub Activity & Real-Time Metrics
+
+<!-- Streak & Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xboyrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="xboyrex's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xboyrex&theme=tokyonight&hide_border=true&background=0d1117" alt="xboyrex's Streak" width="48%" />
+</p>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xboyrex&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="97%" alt="Contribution Graph" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xboyrex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
-### ⚡ Technical Focus
+### 🛠️ Tech Stack & Infrastructure
 
-* **Firmware Modification:** Xiaomi/POCO bootloader unlock mechanisms, HyperOS account authorization workflows, and EDL recovery protocols.
-* **Root Architecture:** Modern systemless root frameworks (Magisk, KernelSU, APatch) and low-level kernel patching.
-* **Custom Software Pipelines:** AOSP-based custom ROM deployment, vendor blob patching, and bootloop recovery.
-* **Utility Tooling:** Fastboot, ADB scripting, Termux-based automation, and Windows platform-tools packaging.
-
----
-
-### 🛠 Tech Stack & Tools
-
-* **Platforms:** Android (Kernel/Framework), Linux, Windows Fastboot/ADB
-* **Flashing Suites:** Mi Flash Tool, Fastboot CLI, TWRP, OrangeFox
-* **Root Frameworks:** KernelSU, APatch, Magisk
-* **Web Frontend:** HTML5, CSS3, JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Android_Tools-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### 🌐 Hub & Ecosystem
+### 🌐 Ecosystem & Live Deployments
 
-* **Web Portal:** [Mayank Droid Live](https://xboyrex.github.io/mayank-droid/)
-* **YouTube:** [Mayank Droid](https://www.youtube.com/@mayankdroid)
-* **Instagram:** [@mayank.droid](https://www.instagram.com/mayank.droid)
-* **Telegram:** [@RoranoaxZORO](https://t.me/RoranoaxZORO)
+| Platform | Core Focus | Link |
+| :--- | :--- | :--- |
+| **Otaku Hub** | High-performance entertainment directory | [Explore Node](https://otaku-hub-pro.pages.dev) |
+| **Onyx Services** | Digital media solutions & utility routing | [Access Panel](https://onyx-services.pages.dev) |
+| **Mayank Droid** | Android mods, tools & firmware indexing | [Launch Hub](https://mayank-droid.pages.dev) |
+
+---
+
+<p align="center">
+  <a href="https://t.me/Mayank_Droid_Services">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Broadcast-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+</div>
