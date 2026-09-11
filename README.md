@@ -1,7 +1,9 @@
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:FF00FF&height=200&section=header&text=MAYANK%20%2F%2F%20XBOYREX&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20%E2%80%A2%20Linux%20%E2%80%A2%20Web%20%E2%80%A2%20AI%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" />
 
+
+
+``
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:FF00FF&height=200&section=header&text=MAYANK%20%2F%2F%20XBOYREX&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20%E2%80%A2%20Linux%20%E2%80%A2%20Web%20%E2%80%A2%20AI%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" />
 </div>
 
 <div align="center">
@@ -136,17 +138,10 @@ Environment & Tools
 ---
 
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:8A2BE2,100:00FFFF&height=120&section=footer&text=BUILD%20%E2%86%92%20TEST%20%E2%86%92%20DEBUG%20%E2%86%92%20DEPLOY&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" />
-
   <br/>
-
-<i>⭐ If you like my work, consider giving a star to my repos!</i>
-
-
-
-
-
+  <i>⭐ If you like my work, consider giving a star to my repos!</i>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=xboyrex&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-
 </div>
+``
